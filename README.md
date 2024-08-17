@@ -27,4 +27,4 @@ The Question Service is a microservice responsible for managing questions within
 ### Related Services
 
 - [Quiz Service](https://github.com/PrakashSinghBisht/quiz-service.git) 🧠
-- [Service Registry](https://github.com/PrakashSinghBisht/service-registry.git) 📡
+- [Service Registry](https://github.com/PrakashSinghBisht/service-registry-eureka.git) 📡
